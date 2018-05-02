@@ -1,0 +1,2 @@
+class PortfolioRsController < ApplicationController
+end
